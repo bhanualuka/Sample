@@ -1,2 +1,3 @@
 this is a message  that this git repository is cloned without git comands 
 this is second time editing just for testing purpose and pracitse purpose 
+this is third line edited in the remote repository for clonig purpose without using git commands 
