@@ -1,0 +1,1 @@
+this is a message  that this git repository is cloned without git comands 
